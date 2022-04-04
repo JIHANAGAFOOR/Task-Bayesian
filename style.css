@@ -1,0 +1,29 @@
+#sidebar{
+    background-color:#1D3557;
+}
+#main_div{
+    background-color: #F1FAEE;
+}
+#heading{
+    color:#1D3557 ;
+    text-align: center;
+    margin:100px;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+#para{
+    background-color: #E63946;
+    padding: 50px;
+    height: 350px;
+    color: white;;
+    font-family: 'Montserrat', sans-serif;
+}
+#img{
+    width:507px;
+    height: 250px;
+    margin-top: 55px;
+    margin-left: -15px;
+}
+#img_div{
+    background-color: #A8DADC;
+}
